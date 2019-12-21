@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hotchemi.github.io</title>
+    <link>https://hotchemi.gtihub.io/</link>
+    <description>Recent content on hotchemi.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Dec 2019 14:53:33 +0900</lastBuildDate>
+    
+	<atom:link href="https://hotchemi.gtihub.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://hotchemi.gtihub.io/post/hello/</link>
+      <pubDate>Sat, 21 Dec 2019 14:53:33 +0900</pubDate>
+      
+      <guid>https://hotchemi.gtihub.io/post/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
