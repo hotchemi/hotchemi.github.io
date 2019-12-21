@@ -1,0 +1,5 @@
+author = "hotchemi"
+baseURL = "https://hotchemi.gtihub.io"
+languageCode = "en-us"
+theme = "hugo-theme-cactus-plus"
+title = "hotchemi.github.io"
