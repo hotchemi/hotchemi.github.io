@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on hotchemi.github.io</title>
-    <link>https://hotchemi.gtihub.io/categories/</link>
+    <link>https://hotchemi.github.io/categories/</link>
     <description>Recent content in Categories on hotchemi.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hotchemi.gtihub.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hotchemi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
