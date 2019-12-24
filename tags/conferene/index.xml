@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conferene on hotchemi.github.io</title>
+    <link>https://hotchemi.github.io/tags/conferene/</link>
+    <description>Recent content in conferene on hotchemi.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>Copyright (c) 2020, Shintaro Katafuchi; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 28 Feb 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hotchemi.github.io/tags/conferene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DroidKaigi 2016</title>
+      <link>https://hotchemi.github.io/post/droidkaigi2016/</link>
+      <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hotchemi.github.io/post/droidkaigi2016/</guid>
+      <description>From 2/18/2016 to 2/19/2016, there was one Android conference which is called DroidKaigi in Tokyo. Say, why am I writing such a thing? Because I’m one of the member of DroidKaigi and I definitely want to tell you about its awesomeness. And I know some guys will post a Japanese article soon, so I’m going to try to explain it in English:) Talks and Speakers I</description>
+    </item>
+    
+    <item>
+      <title>Droidcon Krakow 2015</title>
+      <link>https://hotchemi.github.io/post/droidkcon_krakow_2015/</link>
+      <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hotchemi.github.io/post/droidkcon_krakow_2015/</guid>
+      <description>From 12/4 to 12/6, there was a Droidcon at Krakow, Poland and I joined it.
+May be Krakow isn’t famous in Japan, but I heard it’s kinda like Kyoto, historic and distinctive city in Poland.
+The conference was really awesome and I guess half of speakers came from out side of Poland(at least Germany, Italy, France, US, Turkey, Ukraine and Japan!). and sponsors were also global, SoundCloud from Berlin, Genymobile from Paris and many other.</description>
+    </item>
+    
+  </channel>
+</rss>
