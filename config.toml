@@ -1,5 +1,20 @@
-author = "hotchemi"
 baseURL = "https://hotchemi.github.io/"
-languageCode = "en-us"
-theme = "hugo-theme-cactus-plus"
+languageCode = "ja-jp"
+hasCJKLanguage = true
+theme = "nofancy"
 title = "hotchemi.github.io"
+copyright = "Copyright (c) 2020, Shintaro Katafuchi; all rights reserved."
+
+[params]
+	# See themes/nofancy/static/highlight/styles for available options
+	# i.e. "default", "github", "monokai".
+	highlight="github"
+	
+	# Controls what items are listed in the top nav menu
+	# "none", or "categories"
+	# If you have too many categories to fit in the top nav menu, set this to "none"
+	topmenu="none"
+
+[author]
+    github = "hotchemi"
+    twitter = "hotchemi"
