@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>Copyright (c) 2020, Shintaro Katafuchi; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hotchemi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>dex.fm編集後記</title>
-      <link>https://hotchemi.github.io/post/hello/</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hotchemi.github.io/post/hello/</guid>
-      <description>移行テスト。</description>
-    </item>
     
     <item>
       <title>PermissionsDispatcher 4.x: A bunch of stuff</title>
