@@ -1,5 +1,5 @@
 ---
-title: "2020年の始まりとpodcastの終わりについて"
+title: "2020年の始まりとpodcastの終りについて"
 date: 2020-01-05
 draft: false
 tags: ["podcast"]
@@ -19,4 +19,4 @@ tags: ["podcast"]
 
 告知後、有り難い事に[Twitter](https://twitter.com/search?q=dexfm&src=recent_search_click&f=live)上で沢山の感想を頂いた。こんなに多くの人に聞かれていたのか…という驚きと共に、これまで聴いてくださっていた方々に感謝の意を表明したい。
 
-とあるpodcastの終わりについて書いたが、自分は引き続きpodcastが大好きなのでこれを機に新しいpodcastが誕生してくれたら良いなと密かに期待している。
+とあるpodcastの終りについて書いたが、自分は引き続きpodcastが大好きなのでこれを機に新しいpodcastが誕生してくれたら良いなと密かに期待している。
