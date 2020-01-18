@@ -1,6 +1,6 @@
 ---
 title: "自転車通勤を始めた"
-date: 2020-01-1８
+date: 2020-01-17
 draft: false
 tags: ["lifestyle"]
 ---
