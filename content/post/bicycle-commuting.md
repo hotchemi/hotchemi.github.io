@@ -12,4 +12,4 @@ tags: ["lifestyle"]
 
 買った自転車はPanasonicの[ベロスター・ミニ](http://cycle.panasonic.jp/products/elvsmini/)といういわゆるe-bikeで、価格と機能の実用性とデザインのバランスが良かったのが気に入っている。
 
-![](https://blog-imgs-119.fc2.com/a/s/s/assist3/IMG_6092s.jpg)
+![](https://cycle.panasonic.com/products/elvsmini/img/img_product_02_2.jpg)
