@@ -2,8 +2,9 @@
 title: "Meeting Etiquette"
 date: 2020-08-09
 draft: false
-tags: ["misc"]
+tags: ["tips"]
 ---
+
 If your company is growing fast and could hire loads of employees you might have felt like "why there are such many dreadful meetings that I have got to attend?".
 To be honest I deem it's kind of a "passage rite" and inevitable to some extent, but at least I'm sure we can mitigate the issue by making each meeting productive and on-time as much as we can. Here are some examples I usually do when facilitating a meeting(disclaimer: of course not always especially when I'm busy).
 
