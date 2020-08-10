@@ -13,10 +13,10 @@ To be honest I deem it's kind of a "passage rite" and inevitable to some extent,
 
 As far as I've experienced, this is the key. The productivity of a meeting heavily depends on how much we've prepared and we'd never be constructive in a meeting without it. I've thought this is sort of obvious thing but come to realise most people tend to forget when having a hectic time.
 
-In any way, the following points are I basically carry out beforehand as a preparation.
+In any way, the following points are what I basically carry out beforehand as a preparation.
 
 - Prepare an agenda: the goal, what to discuss and associated context among other things. Hopefully prior to 24 hours.
-- Share the proceedings on Slack or email with its excerpt. The attendees can get to know whether they should attend to the meeting or not. Note that people are relatively passive when they're not an owner of something. That's why we need the excerpt.
+- Share the proceedings on Slack or email with its excerpt. The attendees can get to know whether they should attend to the meeting or not. Note that people are relatively passive when they're not an owner of something and that's why we need the excerpt.
 
 ### Time management
 
@@ -26,7 +26,7 @@ Another crucial point is to make sure keeping time as scheduled. If you need mor
 
 ### Follow-up
 
-To track the action items constructed in a previous meeting, don't forget to check them periodically. In my understanding, a meeting is to achieve either of making a decision or come up with a next actionable step. If you can't make it, there might be something wrong.
+To track the action items constructed in a previous meeting, don't forget to check them periodically. In my understanding, a meeting is to achieve either of making a decision or coming up with next actionable steps. If you can't make it, there might be something wrong.
 
 To summarise, there are only a few points you should keep in mind.
 
@@ -34,6 +34,6 @@ To summarise, there are only a few points you should keep in mind.
 - focus on important discussions and keep a time
 - Track action items, never leave as it is
 
-More fundamentally, it's also quite effective to review the legitimacy of each meeting constantly and drop it as appropriate. But with the small tips and tricks you'd be able to spend more productive time in a day.
+More fundamentally, it's also quite effective to review the legitimacy of each meeting constantly and drop as appropriate. But with the small tips and tricks you'd be able to spend more productive time in a day.
 
 Happy tedious meeting!
