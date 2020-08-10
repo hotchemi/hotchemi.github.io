@@ -34,6 +34,6 @@ To summarise, there are only a few points you should keep in mind.
 - focus on important discussions and keep a time
 - Track action items, never leave as it is
 
-More fundamentally, it's also quite effective to review the importance of each meeting constantly and drop it as appropriate. But with the small tips and tricks you'd be able to spend more productive time in a day.
+More fundamentally, it's also quite effective to review the legitimacy of each meeting constantly and drop it as appropriate. But with the small tips and tricks you'd be able to spend more productive time in a day.
 
 Happy tedious meeting!
