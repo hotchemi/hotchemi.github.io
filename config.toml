@@ -1,4 +1,4 @@
-baseURL = "https://hotchemi.github.io/"
+baseURL = "https://hotchemi.github.io"
 languageCode = "ja-jp"
 hasCJKLanguage = true
 theme = "hugo-notepadium"
