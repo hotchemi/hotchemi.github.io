@@ -4,8 +4,11 @@ date: 2020-01-25
 draft: false
 tags: ["reading"]
 ---
+<center>
 
 ![](https://images-fe.ssl-images-amazon.com/images/I/41C4bPGqkoL.jpg)
+
+</center>
 
 会社で推奨されていた[Measure What Matters（メジャー・ホワット・マターズ） 伝説のベンチャー投資家がGoogleに教えた成功手法 OKR](https://www.amazon.co.jp/dp/B07JCZVFZ9/ref=dp-kindle-redirect)を読んだ。
 

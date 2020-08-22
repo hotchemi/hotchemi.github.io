@@ -45,6 +45,7 @@ We’ve got a feedback that current OnShowRationale annotated method signature i
 
 Consequently if you want to show DialogFragment in OnShowRationale annotated method, it can be done easily! Here’s a minimum example.
 
+```kotlin
     @RuntimePermissions
     class MainActivity : AppCompatActivity() {
         @NeedsPermission(Manifest.permission.CAMERA)
@@ -56,9 +57,11 @@ Consequently if you want to show DialogFragment in OnShowRationale annotated met
           PermissionDialogFragment().show()
         }
     }
+```
 
 Then processor will generate processShowCameraPermissionRequest and cancelShowCameraPermissionRequest as extension methods. Utilize them as appropriate in DialogFragment.
 
+```kotlin
     class PermissionDialogFragment : DialogFragment() {
       private lateinit var activity: MainActivity
 
@@ -80,6 +83,7 @@ Then processor will generate processShowCameraPermissionRequest and cancelShowCa
                  .create()
       }
     }
+```
 
 ### New maven groupId
 

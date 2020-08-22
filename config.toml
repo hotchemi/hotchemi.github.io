@@ -1,23 +1,19 @@
 baseURL = "https://hotchemi.github.io"
 languageCode = "ja-jp"
 hasCJKLanguage = true
-theme = "hugo-notepadium"
+theme = "etch"
 title = "hotchemi.github.io"
-copyright = "Copyright (c) 2020, Shintaro Katafuchi; all rights reserved."
 enableRobotsTXT = true
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
-[markup.highlight]
-  codeFences = true
-  noClasses = true
+[params]
+  dark = "auto"
+  highlight = true
+
+[permalinks]
+  posts = "/:title/"
 
 [markup.goldmark.renderer]
-  unsafe = true  # enable raw HTML in Markdown
-
-[params.math]
-  enable = true  # optional: true, false. Enable globally, default: false. You can always enable math on per page.
-  use = "katex"  # option: "katex", "mathjax". default: "katex"
-
-[params.syntax]
-  use = "prismjs"  # builtin: "prismjs", "hljs". "none" means Chroma
-  theme = "xcode"
-  darkTheme = "xcode-dark"  # apply this theme in dark mode
+  unsafe = true
