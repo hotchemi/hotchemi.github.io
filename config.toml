@@ -1,19 +1,70 @@
 baseURL = "https://hotchemi.github.io"
 languageCode = "ja-jp"
 hasCJKLanguage = true
-theme = "etch"
+theme = "minimal-bootstrap-hugo-theme"
 title = "hotchemi.github.io"
-enableRobotsTXT = true
-enableInlineShortcodes = true
-pygmentsCodeFences = true
-pygmentsUseClasses = true
+
+[taxonomies]
+  tag = "tags"
 
 [params]
-  dark = "auto"
-  highlight = true
+  contentBackgroundColor = "#fff"
+  contentTextColor = "#212529"
+  contentLinkColor = "#007bff"
+  contentLinkHoverColor = "#0056b3"
+  navbarBackgroundColor = "#263238"
+  navbarLinkColor = "rgba(255, 255, 255, 0.75)"
+  navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
+  customCodeStyle = true
+  customBlockquoteStyle = true
+  showPostSummary = true
+  cookieConsent = false
+  includeBootstrapJs = false
+  faviconSafariPinnedTabColor = "#5bbad5"
+  faviconMsApplicationTileColor = "#da532c"
+  faviconThemeColor = "#ffffff"
 
-[permalinks]
-  posts = "/:title/"
+[menu]
+  [[menu.nav]]
+  name = "Posts"
+  url = "/"
+  weight = 1
+  [[menu.nav]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+  [[menu.nav]]
+  name = "RSS"
+  url = "/index.xml"
+  weight = 3
 
-[markup.goldmark.renderer]
-  unsafe = true
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
+  [markup.highlight]
+    codeFences = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 6
+    startLevel = 2
