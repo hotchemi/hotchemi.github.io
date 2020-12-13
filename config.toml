@@ -9,12 +9,12 @@ title = "hotchemi.github.io"
 
 [params]
   contentBackgroundColor = "#fff"
-  contentTextColor = "#212529"
-  contentLinkColor = "#007bff"
-  contentLinkHoverColor = "#0056b3"
-  navbarBackgroundColor = "#263238"
-  navbarLinkColor = "rgba(255, 255, 255, 0.75)"
-  navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
+  contentTextColor = "#333"
+  contentLinkColor = "#256fba"
+  contentLinkHoverColor = "#256fba"
+  navbarBackgroundColor = "#fff"
+  navbarLinkColor = "rgba(0, 0, 0, 0.6)"
+  navbarLinkHoverColor = "rgba(0, 0, 0, 1.0)"
   customCodeStyle = true
   customBlockquoteStyle = true
   showPostSummary = false
@@ -63,7 +63,7 @@ title = "hotchemi.github.io"
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "monokai"
+    style = "github"
     tabWidth = 4
   [markup.tableOfContents]
     endLevel = 6
