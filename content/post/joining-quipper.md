@@ -2,7 +2,7 @@
 title: "Joining Quipper"
 date: 2016-04-01
 draft: false
-tags: ["oss"]
+tags: ["oss", "lang-en"]
 ---
 
 ※ Japanese version is here.

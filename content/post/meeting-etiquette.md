@@ -2,7 +2,7 @@
 title: "Meeting Etiquette"
 date: 2020-08-09
 draft: false
-tags: ["tips"]
+tags: ["tips", "lang-en"]
 ---
 
 If your company is growing fast and could hire loads of employees you might have felt like "why there are such many dreadful meetings that I have got to attend?".

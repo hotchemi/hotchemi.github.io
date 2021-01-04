@@ -2,7 +2,7 @@
 title: "Measure What Mattersを読んだ"
 date: 2020-01-25
 draft: false
-tags: ["reading"]
+tags: ["reading", "lang-ja"]
 ---
 <center>
 

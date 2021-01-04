@@ -2,7 +2,7 @@
 title: "「美の構成学 バウハウスからフラクタルまで」を読んだ"
 date: 2020-08-22
 draft: false
-tags: ["reading"]
+tags: ["reading", "lang-ja"]
 ---
 [Designput](https://open.spotify.com/episode/45YWA6Ntg0rql5BbMJql35)というpodcastで[美の構成学 バウハウスからフラクタルまで](https://www.amazon.co.jp/dp/B00GBWEXFY/)という本が取り上げられていて面白かったので読んでみた。ざっくり概要が知りたい方はep10.11を聴いてみてほしい。
 

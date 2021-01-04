@@ -2,7 +2,7 @@
 title: "Droidcon Krakow 2015"
 date: 2015-12-24
 draft: false
-tags: ["conferene"]
+tags: ["conferene", "lang-en"]
 ---
 From 12/4 to 12/6, there was a Droidcon at Krakow, Poland and I joined it.
 

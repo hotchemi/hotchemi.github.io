@@ -2,7 +2,7 @@
 title: "A polite way to open a bug report"
 date: 2017-04-18
 draft: false
-tags: ["oss"]
+tags: ["oss", "lang-en"]
 ---
 
 I assume that as your GitHub repository becomes popular you’ll get more and more issues especially bug repot from unexpected angle. And the opposite is true, presumably you’ve opened several reports to libraries or tools that you use as you’ve been becoming being active as an open source enthusiast.

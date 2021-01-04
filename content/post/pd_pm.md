@@ -2,7 +2,7 @@
 title: "PermissionsDispatcherのプロダクトマネジメント"
 date: 2017-12-13
 draft: false
-tags: ["misc"]
+tags: ["misc", "lang-ja"]
 ---
 
 ちょっと前にpmconf 2017があったり最近仕事で若干プロダクトやらプロジェクトマネジメントっぽい事にもクビを突っ込んでいる中で普段OSS開発をしている中で得た気付きや知見が適用できる事が結構あったので整理してみようと思う。

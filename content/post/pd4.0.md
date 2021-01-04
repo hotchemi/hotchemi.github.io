@@ -2,7 +2,7 @@
 title: "PermissionsDispatcher 4.x: A bunch of stuff"
 date: 2018-12-25
 draft: false
-tags: ["android", "oss"]
+tags: ["android", "oss", "lang-en"]
 ---
 
 From July of this year we’ve been adding/removing a bunch of stuff to/from PermissionsDispatcher 4.x(the latest is 4.2.0 for now). I’m personally honored that there’re no changes which break backward API compatibility at all, but some of the changes are not trivial and supposed to be recognized to let you build a reliable and substantial runtime permissions grant flow in your application. In this article I’ll go through some significant changelog topics respectively in minutes.

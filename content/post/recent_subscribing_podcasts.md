@@ -2,7 +2,7 @@
 title: "最近聴いているpodcast"
 date: 2020-01-14
 draft: false
-tags: ["podcast"]
+tags: ["podcast", "lang-ja"]
 ---
 
 自分は基本的にpodcastのヘビーリスナーで常に12~16個くらいの番組をsubscribeしている。

@@ -2,7 +2,7 @@
 title: "自転車通勤を始めた"
 date: 2020-01-17
 draft: false
-tags: ["lifestyle"]
+tags: ["lifestyle", "lang-ja"]
 ---
 
 今働いている会社は自転車通勤が許可されていて、最近会社からそこそこ近い場所に引っ越したので自転車通勤を始めてみた。
