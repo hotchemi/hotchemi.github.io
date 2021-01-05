@@ -2,7 +2,7 @@
 title: "DroidKaigi 2016"
 date: 2016-02-28
 draft: false
-tags: ["conferene", "lang-"]
+tags: ["conferene", "lang-en"]
 ---
 
 From 2/18/2016 to 2/19/2016, there was one Android conference which is called DroidKaigi in Tokyo.
